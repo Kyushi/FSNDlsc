@@ -42,6 +42,7 @@ http://ec2-35-166-206-142.us-west-2.compute.amazonaws.com/
 
 ### Sites consulted for advice ###
 
+* https://discussions.udacity.com/c/nd004-p7-linux-based-server-configuration
 * http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/
 * http://killtheyak.com/use-postgresql-with-django-flask/
 * https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
@@ -49,3 +50,4 @@ http://ec2-35-166-206-142.us-west-2.compute.amazonaws.com/
 * https://support.rackspace.com/how-to/postgresql-creating-and-dropping-roles/
 * https://wiki.apache.org/httpd/CommonMisconfigurations
 * http://packages.ubuntu.com/search?keywords=tree&searchon=names&suite=yakkety&section=all
+* https://www.git-tower.com/blog/git-cheat-sheet/
